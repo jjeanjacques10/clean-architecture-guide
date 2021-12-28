@@ -1,4 +1,4 @@
-package school;
+package br.com.school.escola.dominio.aluno;
 
 public class FabricaDeAluno {
 

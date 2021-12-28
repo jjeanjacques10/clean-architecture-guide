@@ -23,10 +23,10 @@ Facilita a isolar o código de domínio da aplicação.
 Parecido com o padrão de projeto Factory Method, ou o padrão Builder. É uma classe responsável por criar um objeto (no
 caso do tipo [Aluno](school/src/main/java/school/Aluno.java));
 
-## Requisitos
+### [DDD](https://fullcycle.com.br/domain-driven-design/)
 
-- Java 11
-- Maven 3
+**Domain Driven Design**: Conceito de modelar a aplicação pensando inicialmente no domínio, coração do negócio em que estamos atuando. Facilitando assim as alterações realizadas
+nas "bordas" da aplicação, por exemplo, facilitar a alteração na forma como interagimos com o sistema, sendo por API, linha de comando ou etc.
 
 ## Projeto
 
@@ -37,6 +37,7 @@ Exemplos desenvolvidos no projeto [School](./school) neste repositório.
 - [Clean Architecture - Alura](https://cursos.alura.com.br/course/java-clean-architecture)
 - [Descubra o que é e onde aplicar Arquitetura Limpa - ZUP](https://www.zup.com.br/blog/clean-architecture-arquitetura-limpa)
 - [Value Object]( https://martinfowler.com/bliki/ValueObject.html)
+- [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 
 ---
 Developed by [Jean Jacques](https://github.com/jjeanjacques10)
