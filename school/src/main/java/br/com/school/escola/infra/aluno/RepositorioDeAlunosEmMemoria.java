@@ -1,4 +1,4 @@
-package br.com.school.escola.dominio.infra.aluno;
+package br.com.school.escola.infra.aluno;
 
 import br.com.school.escola.dominio.aluno.Aluno;
 import br.com.school.escola.dominio.aluno.CPF;

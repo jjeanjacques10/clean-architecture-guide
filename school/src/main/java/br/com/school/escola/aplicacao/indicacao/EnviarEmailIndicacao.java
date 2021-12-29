@@ -1,4 +1,4 @@
-package br.com.school.escola.dominio.aplicacao.indicacao;
+package br.com.school.escola.aplicacao.indicacao;
 
 import br.com.school.escola.dominio.aluno.Aluno;
 
