@@ -7,7 +7,8 @@ baseada no Clean Architecture:
 <img src="https://raw.githubusercontent.com/jjeanjacques10/clean-architecture-guide/main/files/arquitetura-curso-alura.png" width=600>
 
 - [Domínio](./src/main/java/br/com/school/escola/dominio)
-- [Aplicação](./src/main/java/br/com/school/escola/infra)
+- [Aplicação](./src/main/java/br/com/school/escola/aplicacao)
+- [Infraestrutura](./src/main/java/br/com/school/escola/infra)
 
 ## Requisitos
 
