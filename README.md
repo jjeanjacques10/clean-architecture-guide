@@ -23,10 +23,18 @@ Facilita a isolar o código de domínio da aplicação.
 Parecido com o padrão de projeto Factory Method, ou o padrão Builder. É uma classe responsável por criar um objeto (no
 caso do tipo [Aluno](school/src/main/java/school/Aluno.java));
 
-### [DDD](https://fullcycle.com.br/domain-driven-design/)
+### Domínio 
 
-**Domain Driven Design**: Conceito de modelar a aplicação pensando inicialmente no domínio, coração do negócio em que estamos atuando. Facilitando assim as alterações realizadas
+É o coração do negócio, onde estão as regras da nossa aplicação.
+
+- [DDD](https://fullcycle.com.br/domain-driven-design/)
+
+**Domain Driven Design**: Conceito de modelar a aplicação pensando inicialmente no domínio. Facilitando assim as alterações realizadas
 nas "bordas" da aplicação, por exemplo, facilitar a alteração na forma como interagimos com o sistema, sendo por API, linha de comando ou etc.
+
+### Repositório
+
+Termo utilizado para falar sobre persistência de dados. Utilizando esta abordagem isolamos o domínio da infraestrutura.
 
 ## Projeto
 

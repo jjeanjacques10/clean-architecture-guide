@@ -26,4 +26,12 @@ public class Telefone {
     public String getTelefone() {
         return ddd + numero;
     }
+
+    public String getDdd() {
+        return ddd;
+    }
+
+    public String getNumero() {
+        return numero;
+    }
 }
